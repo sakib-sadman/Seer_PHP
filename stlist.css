@@ -1,0 +1,61 @@
+.tablebox{
+    padding: 0 10px;
+}
+
+.mid{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+    flex-grow: 1;
+}
+
+.hmid{
+
+    background-color:rgb(255, 255, 255);
+    width:100%;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+.hmid_top{
+
+    display: flex;
+    width:100%;
+    height:300px;
+    display: flex;
+    flex-direction: row;
+    border-bottom: 5px solid rgb(233, 117, 9);
+
+
+}
+
+.welcome1{
+    font-size:52px;
+}
+
+tr{
+    text-align: center;
+
+}
+#tablebox{
+    padding: 45px;
+    font-size: 18;
+}
+
+#l1{
+    font-size: 18;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    color: rgb(233, 117, 9);
+}
+
+#inputs{
+    margin: 20px;
+    width: 100px;
+    text-align: center;
+}
